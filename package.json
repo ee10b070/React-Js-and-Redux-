@@ -1,0 +1,19 @@
+{
+  "name": "react-js-and-redux-",
+  "version": "1.0.0",
+  "description": "this is a test directory to learn react js ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ee10b070/React-Js-and-Redux-.git"
+  },
+  "author": "Ravinder K",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ee10b070/React-Js-and-Redux-/issues"
+  },
+  "homepage": "https://github.com/ee10b070/React-Js-and-Redux-#readme"
+}
